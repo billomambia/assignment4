@@ -18,3 +18,7 @@ function getTotalAmount() {
     var totalAmount = (getSizeValue() + getCrust() + getToppings()) * getQuantity();
     alert("You have Orderd" + getQuantity() + " pizza(s)." + "" + " The Total Amount is " + (totalAmount) + "" + " Thank you!");
 }
+function getActualLocation() {
+    var getActualLocation = document.getElementById("location")
+    return parseInt(selectedlocation)
+}
