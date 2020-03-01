@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
 .full-bg-img{
     text-align: center;
     background-image: url(pictures/gettyimages-938742222-612x612.jpg);
@@ -5,4 +6,7 @@
 }
 .container-1{
     background-image: url(pictures/tasty-pepperoni-pizza-black-concrete-background_79782-103.jpg);
+}
+.navbar-brand{
+    font-family: 'Lacquer', ;
 }
