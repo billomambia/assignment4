@@ -1,5 +1,5 @@
 # Assignment4
-NATY'S TASTY PIZZA
+NATY'S TASTY PIZZA.
 # My Pizza Web Application
 #### 14th February 2020.
 ## By Bill Omambia
