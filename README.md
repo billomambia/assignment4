@@ -14,7 +14,7 @@ Clone this Repository onto your device then open the file and it will lead you t
 
 ## TECHNOLOGIES USED
 1. Visual studio code was used in coding the HTML, CSS, Bootstrap, and Javascript.
-2. [JSFiddle](https://jsfiddle.net/) was used in testing the Javascript section.
+2. Bootstrap was used to get the nav bar code variety.
 3. The Text editor was used in writing the ReadMe.
 
 ## CONTACTS
