@@ -5,7 +5,7 @@ NATY'S TASTY PIZZA
 ## By Bill Omambia
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
 
-## DESCRIPTION
+## DESCRIPTION.
 This is a web application in which contains all the work I have done during my second week of learning at [MORINGA School](https://moringaschool.com/). It used Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/). The web application is used to find the users Akan name if he or she was from Ghana. It prompts the user to input his or her gender and his or her Birth date then it calculates the day of the week the user was born and shows the Akan name of the user.
 Here is the [Live Site](https://billomambia.github.io/assignment4/)
 
